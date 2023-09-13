@@ -67,9 +67,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
-
-###
-
-<img src="https://github.com/GaetanVDB07/GaetanVDB07/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
