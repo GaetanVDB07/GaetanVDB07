@@ -70,6 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GaetanVDB07/GaetanVDB07/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/GaetanVDB07/GaetanVDB07/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
