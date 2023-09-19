@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning applied computer science/AI<br>🎯 Goals: live my own life<br>🎲 Website: <a href="GaetanVDB07.github.io/website">GaetanVDB07.github.io/website</a></p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning applied computer science/AI<br>🎯 Goals: live my own life<br>🎲 Website: <a href="https://GaetanVDB07.github.io/website">GaetanVDB07.github.io/website</a></p>
 
 ###
 
