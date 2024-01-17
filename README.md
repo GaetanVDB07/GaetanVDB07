@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gaetan Vandenberghe and I'm a AI student, from Belgium</p>
+<p align="left">My name is Gaetan Vandenberghe and I'm an AI student, from Belgium</p>
 
 ###
 
