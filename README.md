@@ -1,74 +1,72 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+# Gaetan Vandenberghe
 
-<p align="left">My name is Gaetan Vandenberghe and I'm an AI student, from Belgium</p>
+**AI Engineer & AI Advisor**
 
-###
+I help companies turn AI, machine learning, and data into practical software systems, from prototypes and automation to production-minded solutions.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ga%C3%A9tan-vandenberghe/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/GaetanVDB" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://medium.com/@gaetan.vandenberghe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaetan%20Vandenberghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ga%C3%A9tan-vandenberghe/)
+[![X](https://img.shields.io/badge/X-GaetanVDB-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/GaetanVDB)
+
 </div>
 
-###
+## About me
 
-<h2 align="left">About me</h2>
+- Based in Belgium, working as an AI Engineer and AI Advisor for companies.
+- Focused on AI, machine learning, data, and the engineering needed to make intelligent systems useful in practice.
+- I like building software, contributing to projects, and turning ideas into working products.
+- Interested in cybersecurity, secure system design, and the overlap between AI and security.
 
-###
+## Focus areas
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning applied computer science/AI<br>🎯 Goals: live my own life<br>🎲 Website: <a href="https://GaetanVDB07.github.io">Gaétan Vandenberghe</a></p>
+| Area | What I work on |
+| --- | --- |
+| AI strategy | Helping companies understand where AI creates practical value |
+| ML engineering | Building, evaluating, and improving machine learning solutions |
+| Data systems | Working with data pipelines, databases, analytics, and automation |
+| Software engineering | Writing code, integrating systems, and contributing to projects |
+| Cybersecurity | Learning and applying security-minded engineering practices |
 
-###
+## Tech stack
 
-<h2 align="left">I code with</h2>
+**AI, ML & data**
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="40" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="solidity logo"  />
-  <img width="12" />
+**Engineering**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+
+**Databases & platforms**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GaetanVDB07&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Gaetan's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanVDB07&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+
 </div>
+
+## Connect
+
+- LinkedIn: [Gaetan Vandenberghe](https://www.linkedin.com/in/ga%C3%A9tan-vandenberghe/)
+- X: [@GaetanVDB](https://twitter.com/GaetanVDB)
